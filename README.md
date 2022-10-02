@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java , Html , Css ,PHP , Flutter**
 
-- ⚡ Fun fact **Iam Wibu**
+- ⚡ Fun fact **jangan dekat dekat saya masih dibawah umur**
  
 
 <h3 align="left">Connect with me:</h3>
