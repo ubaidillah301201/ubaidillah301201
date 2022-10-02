@@ -31,6 +31,6 @@
 <a><img align="left" width="40" height="40" src="https://code.visualstudio.com/favicon.ico" /> </a></p>
 
 <p align="center">
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=ubaidillah301201i&hide_border=true&title_color=373e4d&text_color=3b4252&langs_count=8"/>
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=ubaidillah301201&hide_border=true&title_color=373e4d&text_color=3b4252&langs_count=8"/>
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=ubaidillah301201&show_icons=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=373e4d&text_color=3b4252"/>
 </p>
