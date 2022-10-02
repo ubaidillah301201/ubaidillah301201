@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fahmy Rosyadi</h1>
-<h3 align="center">Iam Undergraduate Student | Informatics Engineering at State Polytechnic Of Jember</h3>
+<h1 align="center">Hi 👋, I'm Ubaidillah Ali masyur</h1>
+<h3 align="center">Iam Website and Mobile Developer</h3>
 
 <img align="right" src="./gif.gif" style="width:450px"/>
 
