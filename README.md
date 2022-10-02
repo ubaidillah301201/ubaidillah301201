@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ubaidillah Ali masyur</h1>
+<h1 align="center">Hi 👋, I'm Ubaidillah Ali masyhur</h1>
 <h3 align="center">Iam Website and Mobile Developer</h3>
 
 <img align="right" src="./gif.gif" style="width:450px"/>
