@@ -7,15 +7,12 @@
 
 - 👨‍🎓 I'm an Informatics Engineering 2021 students of State Polytechnic Of Jember
 
-- 🔭 I’m currently studying about sains and information technology 
+- 🔭 I’m currently Working together
 
 - 🌱 I’m currently learning **Java , Html , Css ,PHP , Flutter**
 
-- ⚡ Fun fact **Iam Human not robot or AI**
-
-- 🎲 Let's play together 
-
-- 👋 see you around 
+- ⚡ Fun fact **Iam Wibu **
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
