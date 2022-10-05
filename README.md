@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java , Html , Css ,PHP , Flutter**
 
-- ⚡ Fun fact **alasan kamu mampir keprofil  aku ngapain**
+- ⚡ Fun fact **mau tau tanya aja ke ibu saya**
  
 
 <h3 align="left">Connect with me:</h3>
