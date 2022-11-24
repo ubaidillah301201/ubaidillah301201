@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I'm an Informatics Engineering 2021 students of State Polytechnic Of Jember
 
-- 🔭 I’m currently Working together
+- 🔭 At this time I think why accepted in informatics
 
 - 🌱 I’m currently learning **Java , Html , Css ,PHP , Flutter**
 
